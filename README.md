@@ -1,1 +1,1 @@
-# oh-my-flanky-daemon
+# oh-my-flunky-daemon
